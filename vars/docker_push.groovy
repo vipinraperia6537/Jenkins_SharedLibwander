@@ -8,7 +8,7 @@
 
  #   withCredentials([
   #      usernamePassword(
-   #         credentialsId: 'docker',
+   #         credentialsId: 'dockercred',
     #        usernameVariable: 'DOCKER_USER',
      #       passwordVariable: 'DOCKER_PASS'
      #   )
